@@ -1,0 +1,9 @@
+{
+	"packageName" : "com.grouptestlayer",
+	"dtoLayerEnabled" : false,
+	"serviceInterfaceEnabled" : false,
+	"groupId" : "com.group-test-layer",
+	"artifactId" : "MS-Code-Gen-Layer",
+	"dependencies": "--dependencies=web,thymeleaf,data-jpa,h2,lombok",
+	"javaVersion": "1.8"
+}
